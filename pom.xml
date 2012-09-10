@@ -50,6 +50,8 @@
             <groupId>org.zeromq</groupId>
             <artifactId>jzmq</artifactId>
             <version>2.1.0-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/jzmq-2.1.0-SNAPSHOT.jar</systemPath>
         </dependency>
         <!-- Test dependencies -->
         <dependency>
@@ -66,6 +68,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
