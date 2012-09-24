@@ -4,7 +4,7 @@
 
     <groupId>org.tlrx</groupId>
     <artifactId>slf4j-logback-zeromq</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <name>ZeroMQ logger for SLF4J and Logback</name>

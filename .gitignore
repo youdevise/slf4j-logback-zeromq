@@ -1,3 +1,5 @@
 slf4j-logback-zeromq.iml
+*.ipr
+*.iws
 .idea/
 target/
